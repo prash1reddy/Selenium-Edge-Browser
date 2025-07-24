@@ -9,6 +9,9 @@ public class TestChromeBrowser {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.hollandandbarrett.com");
+		String Title= driver.getTitle();
+		System.out.println(Title);
+		driver.quit();
 		
 	}
 
