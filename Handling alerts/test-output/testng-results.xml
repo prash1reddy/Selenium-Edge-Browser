@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-25T17:29:12 IST" name="Default suite" finished-at="2025-07-25T17:29:20 IST" duration-ms="8029">
+    <groups>
+    </groups>
+    <test started-at="2025-07-25T17:29:12 IST" name="Default test" finished-at="2025-07-25T17:29:20 IST" duration-ms="8029">
+      <class name="HandlingAlerts.Testing">
+        <test-method signature="TestPopups()[pri:0, instance:HandlingAlerts.Testing@515c6049]" started-at="2025-07-25T17:29:12 IST" name="TestPopups" finished-at="2025-07-25T17:29:20 IST" duration-ms="7992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPopups -->
+      </class> <!-- HandlingAlerts.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
